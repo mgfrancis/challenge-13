@@ -5,7 +5,7 @@ tags: jquery, oo, donut
 
 # Code Challenge 13 - Donut Organizer
 
-This challenge asks that you work in groups to build a donut organizer that lets create new donut instances based off a Donut class. You should be able to set the following properties: type, color, tasty. The donuts hould store an element method that returns a list item that reports their properties. They should also contain a method that appends them into the ul with id of #donut-list.
+This challenge asks that you work in groups to build a donut organizer that let's create new donut instances based off a Donut class. You should be able to set the following properties: type, color, tasty. The donuts should store an element method that returns a list item that reports their properties. They should also contain a method that appends them into the ul with id of #donut-list.
 
 ## Tasks
 
